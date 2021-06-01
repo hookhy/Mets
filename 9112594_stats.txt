@@ -1,0 +1,2 @@
+#ofMets	#ofVoxels	volume(mm3)
+6	5469	4040.203857
